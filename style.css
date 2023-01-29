@@ -38,6 +38,7 @@ body {
 
 h1 {
   font-size: 3rem;
+  text-align: center;
 }
 
 span {
@@ -90,4 +91,18 @@ button {
   background-color: rgb(68, 68, 68);
 
   cursor: pointer;
+}
+
+/******************************************
+/* RESPONSIVE
+/*******************************************/
+
+@media screen and (max-width: 767px) {
+  .number-container {
+    width: 80vw;
+  }
+  footer {
+    flex-flow: column;
+    gap: 15px;
+  }
 }
