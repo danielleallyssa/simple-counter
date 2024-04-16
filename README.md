@@ -8,7 +8,7 @@ _Find link in description._
 
 **Tech used:** HTML, CSS, JavaScript
 
-This was a to improve much skills with DOM manipulations and other basics like functions.
+This was to reinforce my abilities with DOM manipulations and other basics like functions.
 
 ## Optimizations
 
